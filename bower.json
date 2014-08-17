@@ -1,0 +1,20 @@
+{
+  "name":        "spreadsheet-backbone",
+  "description": "Spreadsheet built with Backbone.",
+  "version":     "0.0.1",
+
+  "dependencies": {
+    "almond":                     "~0.3.0",
+    "requirejs":                  "~2.1.15",
+    "requirejs-style-plugins":    "~0.0.1",
+    "requirejs-template-plugins": "~0.0.1",
+
+    "jquery":                     "~2.1.1",
+    "underscore":                 "~1.7.0",
+    "backbone":                   "~1.1.2",
+    "normalize-css":              "~3.0.2"
+  },
+
+  "devDependencies": {
+  }
+}

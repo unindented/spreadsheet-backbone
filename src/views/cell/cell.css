@@ -1,0 +1,23 @@
+.cell .value, .cell .formula {
+  border: 0 none;
+  font-size: 85%;
+  margin: 0;
+  padding: 5px 3px;
+  width: 100%;
+}
+
+.cell .value {
+  text-align: right;
+}
+.cell .formula {
+  text-align: left;
+}
+
+.cell .value,
+.cell.focused .formula {
+  display: block;
+}
+.cell.focused .value,
+.cell .formula {
+  display: none;
+}

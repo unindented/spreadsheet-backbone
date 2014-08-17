@@ -1,0 +1,24 @@
+<thead>
+  <tr>
+    <th>
+    </th>
+    <% _.each(cols, function (col) { %>
+      <th>
+        <%= col %>
+      </th>
+    <% }); %>
+  </tr>
+</thead>
+<tbody>
+  <% _.each(rows, function (row) { %>
+    <tr>
+      <th>
+        <%= row %>
+      </th>
+      <% _.each(cols, function (col) { %>
+        <td id="<%= col %><%= row %>">
+        </td>
+      <% }); %>
+    </tr>
+  <% }); %>
+</tbody>

@@ -1,0 +1,17 @@
+.table {
+  border: 1px solid #ccc;
+}
+
+.table th, .table td {
+  border: 1px solid #ccc;
+  line-height: 25px;
+  margin: 0;
+  padding: 0;
+  min-width: 100px;
+}
+.table th {
+  cursor: default;
+}
+.table td {
+  cursor: text;
+}
