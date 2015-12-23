@@ -1,4 +1,4 @@
-# Spreadsheet built with Backbone [![Build Status](https://img.shields.io/travis/unindented/spreadsheet-backbone.svg)](http://travis-ci.org/unindented/spreadsheet-backbone) [![Dependency Status](https://img.shields.io/gemnasium/unindented/spreadsheet-backbone.svg)](https://gemnasium.com/unindented/spreadsheet-backbone)
+# Spreadsheet built with Backbone [![Build Status](https://img.shields.io/travis/unindented/spreadsheet-backbone.svg)](http://travis-ci.org/unindented/spreadsheet-backbone)
 
 Extremely crude spreadsheet app built with Backbone.
 
